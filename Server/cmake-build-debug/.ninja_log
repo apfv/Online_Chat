@@ -1,0 +1,20 @@
+# ninja log v5
+0	847	7357472916680814	CMakeFiles/Server.dir/src/main.cpp.obj	7ebe7d8907689507
+857	1092	7357472919042315	Server.exe	382a12d6d61ca307
+21	1484	7358138881161386	CMakeFiles/Server.dir/src/Time.cpp.obj	689a475524711961
+5	3662	7358138902966580	CMakeFiles/Server.dir/src/main.cpp.obj	7ebe7d8907689507
+15	4146	7358138907812806	CMakeFiles/Server.dir/src/Server.cpp.obj	56b054f124fe13ea
+4147	4334	7358138909617832	Server.exe	4bafd59c1ee6202b
+6	2852	7358139782827197	CMakeFiles/Server.dir/src/Server.cpp.obj	56b054f124fe13ea
+2853	3044	7358139784647838	Server.exe	4bafd59c1ee6202b
+13	2871	7358140661553978	CMakeFiles/Server.dir/src/Server.cpp.obj	56b054f124fe13ea
+2872	3045	7358140663225649	Server.exe	4bafd59c1ee6202b
+9	3037	7358141628876798	CMakeFiles/Server.dir/src/Server.cpp.obj	56b054f124fe13ea
+3045	3199	7358141630438336	Server.exe	4bafd59c1ee6202b
+10	3626	7358145968305540	CMakeFiles/Server.dir/src/main.cpp.obj	7ebe7d8907689507
+20	4410	7358145976128978	CMakeFiles/Server.dir/src/Server.cpp.obj	56b054f124fe13ea
+4411	4606	7358145978016550	Server.exe	4bafd59c1ee6202b
+6	3236	7358146544999998	CMakeFiles/Server.dir/src/Server.cpp.obj	56b054f124fe13ea
+3236	3425	7358146546838590	Server.exe	4bafd59c1ee6202b
+11	4529	7358147451418147	CMakeFiles/Server.dir/src/Server.cpp.obj	56b054f124fe13ea
+4529	4703	7358147453109939	Server.exe	4bafd59c1ee6202b

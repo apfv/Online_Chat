@@ -1,0 +1,3 @@
+D:/Programming/Projects/C++/Online Chat/Client/cmake-build-debug/CMakeFiles/Client.dir
+D:/Programming/Projects/C++/Online Chat/Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Projects/C++/Online Chat/Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
